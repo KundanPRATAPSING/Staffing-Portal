@@ -26,7 +26,7 @@ Prior to running the project locally, ensure that you have installed Node.js and
 
 * [Anmol](https://github.com/ANMOLYADAV1402)
 * [Arya](https://github.com/GitArya27)
-* [Gopal](https://github.com/RaginaPhalangae)
+* [Gopal](https://github.com/Gopal2021025)
 
 ## Contributing
 
